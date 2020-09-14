@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../images/samuel.jpg");
+    background: url("../images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -407,4 +407,3 @@ div#map {
         max-width: 50%;
     }
 }
-
